@@ -1,4 +1,4 @@
 hrr2demo
 ========
 
-For presentation
+For presentation: http://hrr2demo.meteor.com/

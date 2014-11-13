@@ -1,6 +1,6 @@
 Template.input.events = {
   'submit form': function(event){
-    event.preventDefault;
+    event.preventDefault();
 
     if (Meteor.user()){
       var name = Meteor.user().profile.name;
